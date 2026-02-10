@@ -1,5 +1,7 @@
 # Health OS (Fasting & Hydration Tracker)
 
+[![Android Build](https://github.com/kspillane/health-tracker/actions/workflows/android-build.yml/badge.svg)](https://github.com/kspillane/health-tracker/actions/workflows/android-build.yml)
+
 A comprehensive, local-first health tracking application built with React Native, Expo, and NativeWind.
 
 ## Features
